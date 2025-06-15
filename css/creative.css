@@ -444,14 +444,14 @@ body {
 }
 
 /* Section Styling */
-#xjam1 {
+#glasscoat {
     background-color: #1c1c1c;
     color: #f8f9fa;
     padding: 60px 0;
 }
 
 /* Section Heading */
-#xjam1 .section-heading {
+#glasscoat .section-heading {
     font-size: 2.5rem;
     font-weight: 700;
     color: #ffffff;
@@ -459,37 +459,37 @@ body {
 }
 
 /* Horizontal Rule Styling */
-#xjam1 hr.light {
+#glasscoat hr.light {
     width: 60px;
     border-top: 3px solid #e74c3c;
     margin: 0 auto 30px;
 }
 
 /* Logo Styling */
-#xjam1 img {
+#glasscoat img {
     max-width: 200px;
     margin-bottom: 20px;
 }
 
 /* Paragraph Styling */
-#xjam1 p {
+#glasscoat p {
     font-size: 1.1rem;
     line-height: 1.8;
 }
 
 /* List Styling */
-#xjam1 ul {
+#glasscoat ul {
     padding-left: 0;
     list-style: none;
 }
 
-#xjam1 li {
+#glasscoat li {
     margin-bottom: 24px;
     position: relative;
     padding-left: 30px;
 }
 
-#xjam1 li::before {
+#glasscoat li::before {
     content: "•";
     color: #e74c3c;
     font-size: 1.5rem;
@@ -498,14 +498,14 @@ body {
     top: 5px;
 }
 
-#xjam1 h4 {
+#glasscoat h4 {
     color: #f8f9fa;
     font-size: 1.3rem;
     margin-bottom: 8px;
 }
 
 /* Button Styling */
-#xjam1 .btn-xl {
+#glasscoat .btn-xl {
     background-color: #e74c3c;
     color: #ffffff;
     font-size: 1.2rem;
@@ -517,28 +517,28 @@ body {
     text-transform: uppercase;
 }
 
-#xjam1 .btn-xl:hover {
+#glasscoat .btn-xl:hover {
     background-color: #c0392b;
     transform: translateY(-3px);
 }
 
 /* Video Iframe Centering */
-#xjam1 iframe {
+#glasscoat iframe {
     border-radius: 8px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
 }
 
 /* Responsive Tweaks */
 @media (max-width: 768px) {
-    #xjam1 .section-heading {
+    #glasscoat .section-heading {
         font-size: 2rem;
     }
 
-    #xjam1 li {
+    #glasscoat li {
         padding-left: 20px;
     }
 
-    #xjam1 li::before {
+    #glasscoat li::before {
         font-size: 1.2rem;
         top: 4px;
     }
